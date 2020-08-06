@@ -7,7 +7,10 @@ public class ReverseAString {
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+        Scanner
+
+
+                scan = new Scanner(System.in);
         System.out.println("Enter a String: ");//cat
         String str = scan.nextLine();
         //char firsr_ch = str.charAt(0);
